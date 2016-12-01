@@ -135,28 +135,6 @@
 		<color3>0.263 0.275 0.133 1.000</color3>
     </camouflage>
 	<camouflage>
-		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
-        <name>camo_1_tile</name>
-        <targetShip>PJSA012_Zuikaku_1944</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3 3</Tile>
-			<Bow_DeckHouse>1 1</Bow_DeckHouse>
-			<MidFront_DeckHouse>1 1</MidFront_DeckHouse>
-			<MidBack_DeckHouse>1 1</MidBack_DeckHouse>
-			<Stern_DeckHouse>1 1</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
-			<Bulge>2 2</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_01.dds</Tile>
-        </Textures>
-		<color0>0.086 0.082 0.067 0.706</color0>
-		<color1>0.035 0.047 0.012 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.263 0.275 0.133 1.000</color3>
-    </camouflage>
-	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и большой текстурой надстройки</annotation>
         <name>camo_1_tile</name>
         <targetShip>PJSA015_Taiho_1944</targetShip>
@@ -257,28 +235,6 @@
 			<MidBack_DeckHouse>3.0 1.5</MidBack_DeckHouse>
 			<Stern_DeckHouse>3.0 1.5</Stern_DeckHouse>
 			<Gun>0.5 0.5</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/IJN_tile_camo_02.dds</Tile>
-        </Textures>
-		<color0>0.086 0.082 0.067 0.706</color0>
-		<color1>0.035 0.047 0.012 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.263 0.275 0.133 1.000</color3>
-    </camouflage>
-	<camouflage>
-		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
-        <name>camo_2_tile</name>
-        <targetShip>PJSA012_Zuikaku_1944</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3 3</Tile>
-			<Bow_DeckHouse>0.6 0.6</Bow_DeckHouse>
-			<MidFront_DeckHouse>0.6 0.6</MidFront_DeckHouse>
-			<MidBack_DeckHouse>0.6 0.6</MidBack_DeckHouse>
-			<Stern_DeckHouse>0.6 0.6</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
 			<Bulge>1.5 1.5</Bulge>
         </UV>
         <Textures>
@@ -401,28 +357,6 @@
 		<color3>0.086 0.082 0.067 0.706</color3>
     </camouflage>
 	<camouflage>
-		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
-        <name>camo_3_tile</name>
-        <targetShip>PJSA012_Zuikaku_1944</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3 3</Tile>
-			<Bow_DeckHouse>0.6 0.6</Bow_DeckHouse>
-			<MidFront_DeckHouse>0.6 0.6</MidFront_DeckHouse>
-			<MidBack_DeckHouse>0.6 0.6</MidBack_DeckHouse>
-			<Stern_DeckHouse>0.6 0.6</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
-			<Bulge>1.5 1.5</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_03.dds</Tile>
-        </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.125 0.133 0.047 1.000</color1>
-		<color2>0.263 0.275 0.133 1.000</color2>
-		<color3>0.086 0.082 0.067 0.706</color3>
-    </camouflage>
-	<camouflage>
 		<annotation>Блок тайленых японских камуфляжей для кораблей с квадратной текстурой корпуса и большой текстурой надстройки</annotation>
         <name>camo_3_tile</name>
         <targetShip>PJSA015_Taiho_1944</targetShip>
@@ -524,28 +458,6 @@
 			<Stern_DeckHouse>3.0 1.8</Stern_DeckHouse>
 			<Gun>0.6 0.6</Gun>
 			<Bulge>1.8 1.8</Bulge>
-        </UV>
-        <Textures>
-            <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
-        </Textures>
-		<color0>0.035 0.047 0.012 1.000</color0>
-		<color1>0.263 0.275 0.133 1.000</color1>
-		<color2>0.125 0.133 0.047 1.000</color2>
-		<color3>0.000 0.000 0.000 0.000</color3>
-    </camouflage>
-	<camouflage>
-		<annotation>Блок тайленых экномических японских камуфляжей для кораблей с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
-        <name>camo_economic_tile</name>
-        <targetShip>PJSA012_Zuikaku_1944</targetShip>
-        <tiled>true</tiled>
-        <UV>
-			<Tile>3 3</Tile>
-			<Bow_DeckHouse>0.6 0.6</Bow_DeckHouse>
-			<MidFront_DeckHouse>0.6 0.6</MidFront_DeckHouse>
-			<MidBack_DeckHouse>0.6 0.6</MidBack_DeckHouse>
-			<Stern_DeckHouse>0.6 0.6</Stern_DeckHouse>
-			<Gun>0.6 0.6</Gun>
-			<Bulge>1.5 1.5</Bulge>
         </UV>
         <Textures>
             <Tile>content/gameplay/common/camouflage/textures/Dazzle_tile_camo_04.dds</Tile>
@@ -5079,7 +4991,7 @@
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для выставки GamesCon 2016 на корабли с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
         <name>camo_gamescon_tile</name>
-		<targetShip>PJSA012_Zuikaku_1944 PRSC108_Pr_68_Chapaev</targetShip>
+		<targetShip>PRSC108_Pr_68_Chapaev</targetShip>
         <tiled>true</tiled>
         <UV>
             <Tile>2 2</Tile>
@@ -5211,7 +5123,7 @@
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для Дня Рождения проекта на корабли с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
         <name>camo_wows_birthday_tile</name>
-		<targetShip>PJSA012_Zuikaku_1944 PRSC108_Pr_68_Chapaev</targetShip>
+		<targetShip>PRSC108_Pr_68_Chapaev</targetShip>
         <tiled>true</tiled>
         <UV>
             <Tile>2.5 4</Tile>
@@ -5365,7 +5277,7 @@
 	<camouflage>
 		<annotation>Блок тайленого разового камуфляжа для Европейского реалма на корабли с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
         <name>camo_EU_special_tile</name>
-		<targetShip>PJSA012_Zuikaku_1944 PRSC108_Pr_68_Chapaev</targetShip>
+		<targetShip>PRSC108_Pr_68_Chapaev</targetShip>
         <tiled>true</tiled>
         <UV>
             <Tile>2.5 4</Tile>
@@ -5519,7 +5431,7 @@
 	<camouflage>
 		<annotation>Блок тайленого камуфляжа для ивента Хэллоуин 2016 на корабли с квадратной текстурой корпуса и малой текстурой надстройки</annotation>
         <name>camo_halloween_2016_tile</name>
-		<targetShip>PJSA012_Zuikaku_1944 PRSC108_Pr_68_Chapaev</targetShip>
+		<targetShip>PRSC108_Pr_68_Chapaev</targetShip>
         <tiled>true</tiled>
         <UV>
             <Tile>2.5 4</Tile>
@@ -5964,28 +5876,6 @@
 		<color1>0.035 0.047 0.012 0.784</color1>
 		<color2>0.667 0.702 0.604 0.784</color2>
 		<color3>0.086 0.082 0.067 0.706</color3>
-	</camouflage>
-	<camouflage>
-		<annotation>Блок пермофляжа для японского авианосца 8 уровня тип Сёкаку</annotation>
-		<name>camo_permanent_1</name>
-		<targetShip>PJSA012_Zuikaku_1944</targetShip>
-		<tiled>false</tiled>
-		<UV>
-			<Tile>1 1</Tile>
-			<Gun>1 1</Gun>
-		</UV>
-		<Textures>
-			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
-			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
-			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
-			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
-			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
-			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
-		</Textures>
-		<color0>0.085 0.097 0.062 1.000</color0>
-		<color1>0.085 0.102 0.141 1.000</color1>
-		<color2>0.015 0.027 0.008 1.000</color2>
-		<color3>0.105 0.040 0.034 1.000</color3>
 	</camouflage>
 	<camouflage>
 		<annotation>Блок пермофляжа для японского линкора 9 уровня Идзумо</annotation>
@@ -8463,4 +8353,202 @@
 		<color3>0.000 0.000 0.000 0.000</color3>
 	</camouflage>
 	<!--//Test camo-->
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_1_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_2_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_3_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_economic_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_gamescon_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_wows_birthday_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_EU_special_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_halloween_2016_tile</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
+	<camouflage>
+		<annotation>SEA group 历史系列涂装</annotation>
+		<name>camo_permanent_1</name>
+		<targetShip>PJSA012_Zuikaku_1944</targetShip>
+		<tiled>false</tiled>
+		<UV>
+			<Tile>1 1</Tile>
+			<Gun>1 1</Gun>
+		</UV>
+		<Textures>
+			<Bow_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Bow_Hull>
+			<MidFront_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidFront_Hull>
+			<MidFront_DeckHouse>content/gameplay/common/camouflage/textures/Black_gun_camo_01.dds</MidFront_DeckHouse>
+			<MidBack_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</MidBack_Hull>
+			<Stern_Hull>content/gameplay/common/camouflage/textures/JSA012_Zuikaku_1944_Hull_camo_01.dds</Stern_Hull>
+			<Gun>content/gameplay/common/camouflage/textures/R_gun_camo_01.dds</Gun>
+		</Textures>
+		<color0>0.146 0.165 0.134 1.000</color0>
+		<color1>0.150 0.178 0.137 1.000</color1>
+		<color2>0.219 0.180 0.115 1.000</color2>
+		<color3>0.053 0.060 0.051 1.000</color3>
+	</camouflage>
 </data>
